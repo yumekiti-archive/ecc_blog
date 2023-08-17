@@ -13,7 +13,7 @@ const Component: React.FC = () => (
       </div>
       <div className="mt-2 text-justify whitespace-pre-wrap text-SubHeadline px-4">
         {
-          'ようこそ、ECCコンピュータ専門学校の技術ブログへ！\n\nこのブログは、学生が自由に記事を投稿できるようになっています。情報の保持、交流の場提供、新しい情報の発見を目指します。\n\n技術情報共有、疑問解決、仲間募集、どんなトピックも歓迎！\n\nみんなで学び合いましょう！🚀'
+          'ようこそ、ゆめきちのブログへ！\n\n自由気ままにブログを上げていきます興味がある記事があれば見ていってください！\n\nTwitter: @yumekiti1204\nGithub: @yumekiti'
         }
       </div>
     </div>
