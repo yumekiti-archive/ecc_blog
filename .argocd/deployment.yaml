@@ -41,7 +41,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: diff.yumekiti.net
+  - host: blog.yumekiti.net
     http:
       paths:
       - path: /
